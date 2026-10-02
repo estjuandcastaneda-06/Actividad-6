@@ -71,3 +71,12 @@ carácter como comando de "limpiar".
 Abre una simulación física con el brazo robótico KUKA IIWA (incluido en `pybullet_data`, usado
 como brazo genérico de 7 grados de libertad). Cada dígito tiene asociada una lista de puntos
 (coordenadas normalizadas 0-1) que describen, a mano alzada, la forma de ese número con un trazo
+
+
+Resultado teclado matricial 
+
+
+https://github.com/user-attachments/assets/25f0798d-7486-49c6-93e5-70b8e65ce503
+
+
+
